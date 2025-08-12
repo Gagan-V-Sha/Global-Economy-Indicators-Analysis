@@ -1,0 +1,33 @@
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:         GDP_per_capita   R-squared:                        0.0645
+Estimator:                   PanelOLS   R-squared (Between):             -1.5821
+No. Observations:               10299   R-squared (Within):               0.0645
+Date:                Tue, Aug 12 2025   R-squared (Overall):             -1.0035
+Time:                        14:27:14   Log-likelihood                -1.093e+05
+Cov. Estimator:            Unadjusted                                           
+                                        F-statistic:                      231.74
+Entities:                         217   P-value                           0.0000
+Avg Obs:                       47.461   Distribution:                 F(3,10079)
+Min Obs:                       3.0000                                           
+Max Obs:                       52.000   F-statistic (robust):             231.74
+                                        P-value                           0.0000
+Time periods:                      52   Distribution:                 F(3,10079)
+Avg Obs:                       198.06                                           
+Min Obs:                       182.00                                           
+Max Obs:                       212.00                                           
+                                                                                
+                                  Parameter Estimates                                   
+========================================================================================
+                      Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+----------------------------------------------------------------------------------------
+Agriculture_Share       -285.77     17.782    -16.071     0.0000     -320.63     -250.92
+Manufacturing_Share     -527.96     25.169    -20.976     0.0000     -577.30     -478.62
+Transport_Comm_Share    -162.67     52.607    -3.0921     0.0020     -265.79     -59.548
+========================================================================================
+
+F-test for Poolability: 54.598
+P-value: 0.0000
+Distribution: F(216,10079)
+
+Included effects: Entity
