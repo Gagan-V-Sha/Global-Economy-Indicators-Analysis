@@ -1,7 +1,7 @@
 
 # 📈 An Econometric Analysis of Economic Structure and Development
 
-![Project Banner](link/to/your/banner.png)
+![Project Banner]([link/to/your/banner.png](https://github.com/Gagan-V-Sha/Global-Economy-Indicators-Analysis/blob/main/ProjectBanner.png))
 
 ## 📌 About the Project
 
