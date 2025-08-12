@@ -52,5 +52,5 @@ Each visualization tells a different part of the story:
 
 1.  **Clone the repository**: `git clone https://github.com/your-username/global-economy-indicators-analysis.git`
 2.  **Install dependencies**: `pip install pandas statsmodels matplotlib seaborn linearmodels`
-3.  **Run the script**: `python project.py`
+3.  **Run the script**: `python analysis.py`
 4.  Follow the interactive menu to perform a regression or generate a specific visualization.
