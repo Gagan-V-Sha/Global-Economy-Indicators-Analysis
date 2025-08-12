@@ -1,7 +1,7 @@
 
 # 📈 An Econometric Analysis of Economic Structure and Development
 
-![Project Banner]([link/to/your/banner.png](Global-Economy-Indicators-Analysis/ProjectBanner.png))
+![Project Banner]([link/to/your/banner.png](ProjectBanner.png))
 
 ## 📌 About the Project
 
