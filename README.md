@@ -1,7 +1,7 @@
 
 # 📈 An Econometric Analysis of Economic Structure and Development
 
-![Project Banner]([link/to/your/banner.png](ProjectBanner.png))
+![Project Banner](ProjectBanner.png)
 
 ## 📌 About the Project
 
