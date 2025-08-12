@@ -41,10 +41,15 @@ I used **Ordinary Least Squares (OLS) regression** and a more advanced **fixed-e
 Each visualization tells a different part of the story:
 
 1.  **Bar Chart**: A high-level overview showing the stark difference in average GDP per capita across the four World Bank income groups. 
+![Average GDP per Capita by Income Group](gdp_by_income_group_bar_chart.png)
 2.  **Line Plot**: Illustrates the different growth trajectories of each income group over time, highlighting how development paths diverge. 
+![Average GDP per Capita Over Time](gdp_by_income_group_line_plot.png)
 3.  **Scatter Plots**: Visually represent the relationships quantified in the regression, showing the negative correlation between a sector's share of GDP and a country's GDP per capita. 
+![Sectoral Impact on GDP per Capita](sectoral_impact_scatter_plots.png)
 4.  **Box Plot**: Reveals the distribution and spread of GDP per capita within each income group, providing a nuanced view of global economic inequality. 
+![Distribution of GDP per Capita](gdp_by_income_group_boxplot.png)
 5.  **Facet Chart**: Compares the GDP per capita trends of a curated list of countries with comparable populations, visually proving that economic development is more strongly linked to income group than to population size. 
+![GDP per Capita Trends for Selected Countries](gdp_comparative_facet_chart.png)
 
 ---
 
